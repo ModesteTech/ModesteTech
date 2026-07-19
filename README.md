@@ -37,6 +37,7 @@
 | Projet | Description |
 |--------|-------------|
 | [Jeux-Mystere](https://github.com/ModesteTech/Jeux-Mystere) | Programme d'un petit jeu mystère en Python |
+| [Learn-Dev-ops](https://github.com/ModesteTech/Learn-Dev-ops) | Apprentissage du DevOps : Python, Git, automatisation |
 
 ---
 
