@@ -35,7 +35,7 @@
 | [Jeux-Mystere](https://github.com/ModesteTech/Jeux-Mystere) | Programme d'un petit jeu mystère en Python |
 | [Learn-Dev-ops](https://github.com/ModesteTech/Learn-Dev-ops) | Apprentissage du DevOps : Python, Git, automatisation |
 | [Apprentissage-Java](https://github.com/ModesteTech/Apprentissage-Java) | Apprentissage du Language Java: Exercices, POO, Projets,... |
-| [Apprentissage Photoshop](https://github.com/ModesteTech/J-apprends-PhotoShop)| Apprentissage de Montage photo avec Photoshop|
+| [Apprentissage Photoshop](https://github.com/ModesteTech/J-apprends-PhotoShop-.git)| Apprentissage de Montage photo avec Photoshop|
 
 ---
 
