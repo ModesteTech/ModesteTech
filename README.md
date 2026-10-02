@@ -11,16 +11,15 @@
 
 ## 🛠️ Compétences en cours / Skills in progress
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat)
 
-![Flask](https://cdn.simpleicons.org/flask/000000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-
-
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -39,7 +38,7 @@
 | [Apprentissage-Java](https://github.com/ModesteTech/Apprentissage-Java) | Apprentissage du Language Java: Exercices, POO, Projets,... |
 | [Apprentissage Photoshop](https://github.com/ModesteTech/J-apprends-PhotoShop-.git)| Apprentissage de Montage photo avec Photoshop|
 | [Miniconnect]
-(https://github.com/ModesteTech/Learn-Flask-Miniconnect.git)|Apprentissage de Flask à travers Miniconnect|
+(https://github.com/ModesteTech/Learn-Flask-Miniconnect.git) | Apprentissage de Flask à travers Miniconnect|
 ---
 
 ## 📊 Statistiques / Stats
