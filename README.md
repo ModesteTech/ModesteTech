@@ -2,8 +2,8 @@
 # Hello, I'm Modeste 👋
 
 ## 🎓 À propos / About
-- 🏫 Étudiant ingénieur à **ENSPY** (École Nationale Supérieure Polytechnique de Yaoundé)
-- 🏫 Engineering student at **ENSPY** (National Advanced School of Engineering of Yaoundé)
+- 🏫 Étudiant ingénieur en troisième année Filière Génie Informatique à **ENSPY** (École Nationale Supérieure Polytechnique de Yaoundé)
+- 🏫 Third-year Computer Engineering student at ENSPY (National Advanced School of Engineering of Yaoundé).
 - 🌍 Yaoundé, Cameroun 🇨🇲
 - 📖 Learning today, building tomorrow
 
@@ -13,6 +13,8 @@
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+![Flask](https://cdn.simpleicons.org/flask/000000)
 
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
@@ -36,7 +38,8 @@
 | [Learn-Dev-ops](https://github.com/ModesteTech/Learn-Dev-ops) | Apprentissage du DevOps : Python, Git, automatisation |
 | [Apprentissage-Java](https://github.com/ModesteTech/Apprentissage-Java) | Apprentissage du Language Java: Exercices, POO, Projets,... |
 | [Apprentissage Photoshop](https://github.com/ModesteTech/J-apprends-PhotoShop-.git)| Apprentissage de Montage photo avec Photoshop|
-
+| [Miniconnect]
+(https://github.com/ModesteTech/Learn-Flask-Miniconnect.git)|Apprentissage de Flask à travers Miniconnect|
 ---
 
 ## 📊 Statistiques / Stats
