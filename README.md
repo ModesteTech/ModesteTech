@@ -38,6 +38,7 @@
 | [Apprentissage-Java](https://github.com/ModesteTech/Apprentissage-Java) | Apprentissage du Language Java: Exercices, POO, Projets,... |
 | [Apprentissage Photoshop](https://github.com/ModesteTech/J-apprends-PhotoShop-.git)| Apprentissage de Montage photo avec Photoshop|
 | [Miniconnect](https://github.com/ModesteTech/Learn-Flask-Miniconnect.git) | Apprentissage de Flask à travers Miniconnect|
+| [AppFinance] (https://github.com/ModesteTech/AppFinance.git) | Implémentation d'une application de gestion efficace des dépenses|
 ---
 
 ## 📊 Statistiques / Stats
